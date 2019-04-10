@@ -23,36 +23,7 @@
     {"empid": "0038"},
     {"date": "09/04/2019"}
   
-  ],
-  "VacationApp": [
-    {"EmpName": "Mazen Alsukayti"},
-    {"JoinDate": "21/02/2017"},
-    {"StartDate":"21/02/2017"},
-    {"ManagerName":"Adil Mosa"},
-    {"JobDesc":"Project Manager"},
-    {"SubJobDesc":" "},
-    {"Department":"1"},
-    {"Nationality":"Saudi"},
-    {"NumberofDays": 4},
-    {"LeaveStartDate": "10/04/2019"},
-    {"ReturnDate": "14/04/2019"},
-    {"RequestDate":"09/04/2019"},
-    {"VacationType": "1"},
-    {"ExitReEntry": "1"},
-    {"ExitReEntryDays": "4"},
-    {"City":"Riyadh"},
-    {"VacTypeAdmin": "1"},
-    {"TicketRequired": "false"},
-    {"Vacation_Number": "0039"},
-    {"Requested": "09/04/2019"},
-    {"Remaining_Detail":"12"},
-    {"VacationDays_Details":" "},
-    {"Used_Details":" "},
-    {"Name_Companion":" "},
-    {"City_Companion":" "},
-    {"DOB_Companion":" "},
-    {"VisaRequest_Companion":" "},
-    {"Total_SettlementAmount":"0"}
   ]
+  
 
 }
