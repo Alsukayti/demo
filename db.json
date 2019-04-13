@@ -18,10 +18,10 @@
     {"listtype": "10", "listname": "10"}
   ],
   "gridModul": [
-    {"pid": "1"},
-    {"empname": "Mazen Alsukayti"},
-    {"empid": "0038"},
-    {"date": "09/04/2019"}
+    {"pid": "1",
+    "empname": "Mazen Alsukayti",
+    "empid": "0038",
+    "date": "09/04/2019"}
   
   ]
   
