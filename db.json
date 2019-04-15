@@ -21,7 +21,11 @@
     {"pid": "1",
     "empname": "Mazen Alsukayti",
     "empid": "0038",
-    "date": "09/04/2019"}
+    "date": "09/04/2019"},
+    {"pid": "2",
+    "empname": "Atif Ahmed",
+    "empid": "0040",
+    "date": "12/04/2019"}
   
   ]
   
